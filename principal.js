@@ -153,8 +153,9 @@ fncPocoes.pergOp();
 
 console.log(player1.nomeCompleto());
 
-
-
 //console.log(npc.tipoEntidade);
 
 //npc.tipoEntidade = "test"
+
+// novo comentário 
+// teste github
