@@ -157,5 +157,4 @@ console.log(player1.nomeCompleto());
 
 //npc.tipoEntidade = "test"
 
-// novo comentário 
-// teste github
+// commit aleatorio
